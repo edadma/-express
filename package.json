@@ -4,7 +4,7 @@
   "description": "Typescript/Node.js/Express template",
   "repository": {
     "type": "git",
-    "url": "git://github.com/edadma/-ts.git"
+    "url": "git://github.com/edadma/-express.git"
   },
   "main": "src/index.js",
   "scripts": {
@@ -20,11 +20,11 @@
     "@types/node": "^12.12.5",
     "nodemon": "^1.19.4",
     "prettier": "^1.18.2",
+    "pug": "^2.0.4",
     "ts-node": "^8.4.1",
     "typescript": "^3.6.4"
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "pug": "^2.0.4"
+    "express": "^4.17.1"
   }
 }
